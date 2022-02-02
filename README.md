@@ -1,10 +1,3 @@
-# BAYWebAuto
-
-
-This is to create a BAY Rest API from individual account.
-BAY offers the Rest API services to business account only.
-The objective is to acknowledge the POS system when someone pay the money
-
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -36,8 +29,8 @@ The objective is to acknowledge the POS system when someone pay the money
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/omiejung01/BAYWebAuto/">
+    <img src="omega.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BAY Api for individual account</h3>
