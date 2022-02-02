@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/omiejung01/BAYWebAuto/">
-    <img src="omega.png" alt="Logo" width="80" height="80">
+    <img src="OMEGA02.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BAY Api for individual account</h3>
